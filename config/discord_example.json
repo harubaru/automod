@@ -1,0 +1,33 @@
+{
+    "client": "discord",
+    "client_args": {
+        "bearer_token": "",
+        "status": {
+            "type": "watching",
+            "text": "from the bar. ⚖️"
+        }
+    },
+    "embed_colour": 14140294,
+    "listening_guilds": [
+        930499730843250783,
+        217133507745546240
+    ],
+    "log_channel": 930509559460663346,
+    "syntax_filter_words": [
+        "nigger",
+        "darkie",
+        "kike",
+        "negress",
+        "shitskin",
+        "cunny",
+        " spic",
+        "spic ",
+        "coon",
+        "gook",
+        "chink"
+    ],
+    "syntax_filter_threshold": 0.8,
+    "semantic_filter_model": "unitary/toxic-bert",
+    "semantic_filter_enabled": false,
+    "semantic_filter_channels": [930561058144411649]
+}

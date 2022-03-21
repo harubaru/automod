@@ -1,6 +1,8 @@
 # automod
 Automod is a blazingly-fast AI powered Discord moderator designed for simplicity and low maintenance and configurability.
 
+**DISCLAIMER: This repository contains offensive language! View at your own risk!**
+
 ## Table of Contents
 
 1. [Setup](#setup)
